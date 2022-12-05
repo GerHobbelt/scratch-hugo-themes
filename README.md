@@ -1,0 +1,2 @@
+# scratch-hugo-themes
+scratch
